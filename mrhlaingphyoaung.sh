@@ -1,5 +1,5 @@
 
-# Hack camera with vaimpier tool!
+# Hack camera with hlaingphyo Tools!
 
 trap 'printf "\n";stop' 2
 
@@ -9,11 +9,11 @@ banner() {
 printf "\e[1;92m  _   _        __   _    _ \e[0m\e[1;77m ____                   \e[0m\n"
 printf "\e[1;92m | | | | ____  \/  | \  / |\e[0m\e[1;77m/    \ __  ___   ___    \e[0m\n"
 printf "\e[1;92m \ \_/ |/    \  _  | |\/| |\e[0m\e[1;77m|  __/ \/ |   \ |   \   \e[0m\n"
-printf "\e[1;92m  \___/ \    / | | \_\  \_/\e[0m\e[1;77m| |    || | __/ |   /   \e[0m\n"
+printf "\e[1;92m  \___/ \  ThA  / | | \_\  \_/\e[0m\e[1;77m| |  Khin  || Gyi__/ |   /   \e[0m\n"
 printf "\e[1;92m ________\__/  | |         \e[0m\e[1;77m|_|    -- \___| |_|\\\  \e[0m\n"
 printf "\e[1;92m               \_/         \e[0m                                \n"
 
-printf " \u001b[34m This is Vaimpier Ritik\u001b[31m --<Hacking & Technology>--\e[0m \n"
+printf " \u001b[34m This is Hlaing Phyo\u001b[31m --<Hacking>--\e[0m \n"
 
 printf "\n"
 
